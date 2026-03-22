@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Solo AI** — an intelligent video editing & publishing app
+
 - 🌱 Currently learning **Jetpack Compose** and **Backend Development**
 - 💼 Former Flutter Dev Intern @ **Digontom Pvt. Ltd.** | Android Domain Coordinator @ **Innogeeks Tech Club**
 - 📫 Reach me at **[25dhruvsrivastava@gmail.com](mailto:25dhruvsrivastava@gmail.com)**
