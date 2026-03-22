@@ -1,11 +1,8 @@
-<h1 align="center">Hey there, I'm Dhruv 👋</h1>
+<h1 align="center">Hey there, I'm Dhruv Srivastava 👋</h1>
 <h3 align="center">Mobile App Developer • Flutter & Android • India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvh-maker&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhruvh-maker&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
-  </a>
 </p>
 
 ---
@@ -16,7 +13,6 @@
 - 🌱 Currently learning **Jetpack Compose** and **Backend Development**
 - 💼 Former Flutter Dev Intern @ **Digontom Pvt. Ltd.** | Android Domain Coordinator @ **Innogeeks Tech Club**
 - 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="576562333f25222124253e2136242336213617303a363e3b7934383a">[email&#160;protected]</a>**
-- ⚡ Fun fact: **I find everything funny**
 
 ---
 
