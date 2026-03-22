@@ -1,9 +1,6 @@
 <h1 align="center">Hey there, I'm Dhruv Srivastava 👋</h1>
 <h3 align="center">Mobile App Developer • Flutter & Android • India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvh-maker&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
@@ -12,7 +9,7 @@
 - 🔭 Currently building **Solo AI** — an intelligent video editing & publishing app
 - 🌱 Currently learning **Jetpack Compose** and **Backend Development**
 - 💼 Former Flutter Dev Intern @ **Digontom Pvt. Ltd.** | Android Domain Coordinator @ **Innogeeks Tech Club**
-- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="576562333f25222124253e2136242336213617303a363e3b7934383a">[email&#160;protected]</a>**
+- 📫 Reach me at **[25dhruvsrivastava@gmail.com](mailto:25dhruvsrivastava@gmail.com)**
 
 ---
 
@@ -63,16 +60,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvh-maker&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvh-maker&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvh-maker&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
